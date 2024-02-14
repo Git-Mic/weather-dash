@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Dashboard</title>
+    <link rel="stylesheet" href="./css/weather.css">
+</head>
+<body>
+    <main>
+    <h1>Weather Dashboard</h1>
+    <input type="text" id="cityInput" placeholder="Type city name">
+    <button onclick="fetchWeather()">Obtain Weather</button>
+    <div id="Info-wthr" class="container-wthr"></div> <!---- Area that displays weather ---->
+    <Section id="container-h">
+        <div id="history"></div>
+    </section>
+    </main>
+    <script src="weather.js"></script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(64, 60, 94);
+    
+}
+
+h1 {
+    font-weight: 400;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: azure;
+}
+.container-wthr {
+    display: flex;
+    flex-wrap: wrap;
+}
+.forecast-box {
+    border: 1px solid #9a9494;
+    border-radius: 6px;
+    margin: 12px;
+    padding: 8px;
+    width: 300px;
+    text-align: center;
+    background-color: rgb(81, 6, 244);
+}
+#container-h {
+    background-color: rgb(14, 144, 204);
+    border: 2px solid rgb(70, 69, 69);
+    padding: 10px;
+    margin-top: 20px;
+    float: left;
+}
+/* Style for individual history items */
+.figure-hstry {
+    padding: 5px;
+    cursor: pointer;
+    text-size-adjust: 12px;
+}
+.figure-hstry:hover {
+    background-color: #928787;
+}
