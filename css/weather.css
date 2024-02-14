@@ -19,21 +19,22 @@ h1 {
     padding: 8px;
     width: 300px;
     text-align: center;
-    background-color: rgb(81, 6, 244);
+    background-color: rgb(86, 10, 239);
+    color:azure
 }
 #container-h {
-    background-color: rgb(14, 144, 204);
-    border: 2px solid rgb(70, 69, 69);
+    background-color: rgb(7, 175, 253);
+    border: 2px solid rgb(22, 2, 2);
     padding: 10px;
     margin-top: 20px;
     float: left;
 }
 /* Style for individual history items */
-.figure-hstry {
+.history-item {
     padding: 5px;
     cursor: pointer;
     text-size-adjust: 12px;
 }
-.figure-hstry:hover {
+.history-item:hover {
     background-color: #928787;
 }
