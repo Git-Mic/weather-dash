@@ -8,7 +8,12 @@ Using the openWeather API. This app is able to search for a five day weather for
 n/a
 
 ## Visuals
-Visuals of the page will go here 
+![weather app](https://github.com/Git-Mic/weather-dash/assets/58701184/70afa486-9725-40f7-b64a-947ab0431609)
+
+## Links
+Repo: https://github.com/Git-Mic/weather-dash
+Deployed site: https://git-mic.github.io/weather-dash/
+
 
 ## Installation
 Installation not needed. 
